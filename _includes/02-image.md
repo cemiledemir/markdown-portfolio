@@ -1,1 +1,1 @@
-![Image of Me](https://octodex.github.com/images/photo_cemile.png)
+![Image of Kimonotocat](https://octodex.github.com/images/kimonotocat.png)
