@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Mahatma Gandhi has a very inspiring saying: __*"The weak can never forgive. Forgiveness is an attribute of the strong."*__
